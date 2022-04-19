@@ -35,6 +35,10 @@ h2 {
     align-items: center;
 }
 
+p {
+    text-align: justify;
+}
+
 footer {
     display: flex;
     justify-content: center;
